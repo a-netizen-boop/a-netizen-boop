@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a-netizen-boop
 - 👀 I’m interested in cybersecurity, data science and AI-ML but I'm still exploring everything :).
 - 🌱 I’m currently learning data science libraries like Pandas and PySpark in Python and R language. 
-- 💞️ I’m looking to collaborate on literally anything open source. I'm looking to gain experience and learn.
+- 💞️ I’m looking to collaborate on literally anything open source. I would love to gain experience and learn.
 - 📫 How to reach me 
         Linkedin: www.linkedin.com/in/divya-ganesh-0
 
